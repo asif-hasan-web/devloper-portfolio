@@ -61,7 +61,7 @@ h2{
     margin-left: 5%;
     margin-right: 2%;
     padding-left: 20px;
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 10px 10px 40px #ddd;
 }
 #full-web-dev{
     border-left: 5px solid;
